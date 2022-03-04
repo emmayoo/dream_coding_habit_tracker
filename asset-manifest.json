@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dream_coding_habit_tracker/static/css/main.d41e450a.css",
+    "main.js": "/dream_coding_habit_tracker/static/js/main.770b4e34.js",
+    "index.html": "/dream_coding_habit_tracker/index.html",
+    "main.d41e450a.css.map": "/dream_coding_habit_tracker/static/css/main.d41e450a.css.map",
+    "main.770b4e34.js.map": "/dream_coding_habit_tracker/static/js/main.770b4e34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41e450a.css",
+    "static/js/main.770b4e34.js"
+  ]
+}
